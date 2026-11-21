@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm MIGR3N 👋</h1>
 
 <p align="center">
-  Independent developer · I build practical <b>Windows</b> &amp; <b>macOS</b> desktop apps, <b>Samsung TV</b> apps, and local <b>AI</b> tools.
+  Product manager &amp; independent developer · I build practical <b>Windows</b> &amp; <b>macOS</b> desktop apps, <b>Samsung TV</b> apps, and local <b>AI</b> tools.
 </p>
 
 <p align="center">
