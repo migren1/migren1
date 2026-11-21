@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba, ben Utku 👋</h1>
+<h1 align="center">Hi, I'm MIGR3N 👋</h1>
 
 <p align="center">
-  Bağımsız geliştirici · <b>Windows</b>, <b>macOS</b> ve <b>Samsung TV</b> için pratik masaüstü uygulamaları ve yapay zekâ araçları yapıyorum.
+  Independent developer · I build practical <b>Windows</b> &amp; <b>macOS</b> desktop apps, <b>Samsung TV</b> apps, and local <b>AI</b> tools.
 </p>
 
 <p align="center">
@@ -14,21 +14,21 @@
 
 ---
 
-### 🚀 Öne çıkan projeler
+### 🚀 Featured projects
 
-| Proje | Ne işe yarar | Dil |
+| Project | What it does | Tech |
 |---|---|---|
-| 🎧 **[PilGostergesi](https://github.com/migren1/PilGostergesi)** | Kablosuz kulaklık/mouse pilini Windows görev çubuğunda gösterir | C# |
-| 🎙️ **[kulak (MeetRec)](https://github.com/migren1/kulak)** | macOS menü çubuğunda yerel Whisper ile Türkçe toplantı transkripti | Swift |
-| 🖥️ **[uibox](https://github.com/migren1/uibox)** | Eski Android telefonu masaüstü kontrol paneline çevirir (115 widget) | C# |
-| 📺 **[SamsungIPTV](https://github.com/migren1/SamsungIPTV)** | Samsung TV için Apple TV tarzı IPTV oynatıcı | JS / Tizen |
+| 🎙️ **Kulak (MeetRec)** | macOS menu-bar app — transcribes meetings locally with Whisper · *[App Store & site soon]* | Swift |
+| 🎧 **[PilGostergesi](https://github.com/migren1/PilGostergesi)** | Shows wireless headset/mouse battery on the Windows taskbar | C# |
+| 🖥️ **[uibox](https://github.com/migren1/uibox)** | Turn an old Android phone into a desktop control panel (115 widgets) | C# |
+| 📺 **[SamsungIPTV](https://github.com/migren1/SamsungIPTV)** | Apple TV–style IPTV player for Samsung TVs | JS / Tizen |
 
 ---
 
-### 🧠 Nasıl çalışırım
-- Küçük, bağımsız, bulutsuz çalışan araçlar — çoğu tek dosya, gereksiz bağımlılık yok
-- Donanıma yakın işler: HID protokolleri, görev çubuğu entegrasyonu, yerel yapay zekâ (Whisper)
-- Önce çalışsın, sonra güzelleşsin
+### 🧠 How I work
+- Small, independent, cloud-free tools — mostly single-file, no bloat
+- Close to the metal: HID protocols, taskbar integration, on-device AI (Whisper)
+- Make it work first, then make it nice
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=migren1&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
