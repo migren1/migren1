@@ -21,6 +21,7 @@
 | 🎙️ **[Kulak](https://www.kulakapp.com)** | macOS menu-bar app — transcribes meetings locally with Whisper · [App Store](https://apps.apple.com/us/app/kulak-listens-for-you/id6822717306?mt=12) · [kulakapp.com](https://www.kulakapp.com) | Swift |
 | 🎮 **[Peacho Piles](https://apps.apple.com/us/app/peacho-piles/id6834416167)** | iOS puzzle game — on the App Store | iOS |
 | 🎧 **[PilGostergesi](https://github.com/migren1/PilGostergesi)** | Shows wireless headset/mouse battery on the Windows taskbar | C# |
+| 🛡️ **[GoodbyeDPI Tray](https://github.com/migren1/goodbyedpi-tray)** | Toggle GoodbyeDPI from the Windows taskbar — one click, no console window | C# |
 | 📺 **[SamsungIPTV](https://github.com/migren1/SamsungIPTV)** | Apple TV–style IPTV player for Samsung TVs | JS / Tizen |
 
 ---
